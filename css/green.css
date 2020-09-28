@@ -1,0 +1,24 @@
+body{
+    background: url('../img/hojas.jpg');
+    background-attachment: fixed;
+}
+#logo{
+    background: #235E3D;
+}
+#menu ul li:hover{
+    background: #235E3D;
+}
+.boton-mas{
+    background: #235E3D;
+}
+#texto-personal{
+    color: #235E3D;
+}
+.ui-accordion-header{
+    background:#235E3D;
+ }
+ #clock li{
+    color: #235E3D;
+    box-shadow: 0px 0px 20px #235E3D;
+    border: 2px solid #235E3D;
+}

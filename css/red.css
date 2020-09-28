@@ -1,0 +1,24 @@
+body{
+    background: url('../img/rojo.jpg');
+    background-attachment: fixed;
+}
+#logo{
+    background: #CA3413;
+}
+#menu ul li:hover{
+    background: #CA3413;
+}
+.boton-mas{
+    background: #CA3413;
+}
+#texto-personal{
+    color: #CA3413;
+}
+.ui-accordion-header{
+    background:#CA3413;
+ }
+ #clock li{
+    color: #CA3413;
+    box-shadow: 0px 0px 20px #CA3413;
+    border: 2px solid #CA3413;
+}
